@@ -1,12 +1,12 @@
 <h1>
-  hey there
+  Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-My name is Cameron Rose and I'm a software developer. I'm from Australia, living in Sydney and currently working at BRG.
+My name is Cameron, I'm a passionate software developer from Australia, living in Sydney and currently working at BRG. I'm passionate about all things javascript. I have a particular love for React <3
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
